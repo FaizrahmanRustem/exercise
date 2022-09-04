@@ -1,0 +1,24 @@
+.main-container {
+    margin: 1rem;
+}
+
+.sub-container {
+    margin-left: 1rem;
+}
+
+.sub-container>div {
+    margin-top: 1rem;
+}
+
+.sub-container>div>div {
+    margin-bottom: 5px;
+}
+
+.sub-container>div>input {
+    width: 20rem;
+}
+
+.sub-container>div>textarea {
+    width: 20rem!important;
+    height: 5rem!important;
+}
